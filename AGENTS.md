@@ -1,8 +1,8 @@
-# Build ${ENGINE_NAME} game from a description
+# Build Babylon.js game from a description
 
 - Keep durable project status in `README.md`: what is built, what is left, and an asset table.
-- Generate visual assets with `${ASSET_SKILL_COMMAND}`. Confirm the spend with the user before the first paid generation.
-- Read `${ENGINE_GUIDE_FILE}` for engine guidance: stack, project layout, how to run, and how to capture.
+- Generate visual assets with `cd asset-gen && python tools/asset_gen.py`. Confirm the spend with the user before the first paid generation.
+- Read `babylon-guide.md` for engine guidance: stack, project layout, how to run, and how to capture.
 
 ## Delivery
 
